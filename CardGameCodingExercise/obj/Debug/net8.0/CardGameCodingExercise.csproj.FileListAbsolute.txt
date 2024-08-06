@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\CardGameCodingExercise\CardGameCodingExercise\bin\Debug\net8.0\CardGameCodingExercise.exe
+C:\Users\Admin\source\repos\CardGameCodingExercise\CardGameCodingExercise\bin\Debug\net8.0\CardGameCodingExercise.deps.json
+C:\Users\Admin\source\repos\CardGameCodingExercise\CardGameCodingExercise\bin\Debug\net8.0\CardGameCodingExercise.runtimeconfig.json
+C:\Users\Admin\source\repos\CardGameCodingExercise\CardGameCodingExercise\bin\Debug\net8.0\CardGameCodingExercise.dll
+C:\Users\Admin\source\repos\CardGameCodingExercise\CardGameCodingExercise\bin\Debug\net8.0\CardGameCodingExercise.pdb
+C:\Users\Admin\source\repos\CardGameCodingExercise\CardGameCodingExercise\obj\Debug\net8.0\CardGameCodingExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\CardGameCodingExercise\CardGameCodingExercise\obj\Debug\net8.0\CardGameCodingExercise.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\CardGameCodingExercise\CardGameCodingExercise\obj\Debug\net8.0\CardGameCodingExercise.AssemblyInfo.cs
+C:\Users\Admin\source\repos\CardGameCodingExercise\CardGameCodingExercise\obj\Debug\net8.0\CardGameCodingExercise.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\CardGameCodingExercise\CardGameCodingExercise\obj\Debug\net8.0\CardGameCodingExercise.dll
+C:\Users\Admin\source\repos\CardGameCodingExercise\CardGameCodingExercise\obj\Debug\net8.0\refint\CardGameCodingExercise.dll
+C:\Users\Admin\source\repos\CardGameCodingExercise\CardGameCodingExercise\obj\Debug\net8.0\CardGameCodingExercise.pdb
+C:\Users\Admin\source\repos\CardGameCodingExercise\CardGameCodingExercise\obj\Debug\net8.0\CardGameCodingExercise.genruntimeconfig.cache
+C:\Users\Admin\source\repos\CardGameCodingExercise\CardGameCodingExercise\obj\Debug\net8.0\ref\CardGameCodingExercise.dll
